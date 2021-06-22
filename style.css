@@ -1,0 +1,19 @@
+body{
+    color: rgb(167, 53, 33);
+    background: cyan;
+}
+
+.heading{
+width:80%;
+font-size: 20px;
+}
+
+#camera {
+border: 2px dashed black;
+width: 350px;
+height: 300px;
+}
+
+.name_of_objects,#result_object_accuracy,#result_object_name{
+color:gold;
+}
